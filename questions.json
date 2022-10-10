@@ -1,0 +1,39 @@
+{
+    "answers":[
+        {
+            "id": 1,
+            "theme":"programming",
+            "question":"",
+            "opcions":[],
+            "correctly": 2
+        },
+        {
+            "id": 2,
+            "theme":"programming",
+            "question":"",
+            "opcions": [],
+            "correctly": 2
+        },
+        {
+            "id": 3,
+            "theme":"math",
+            "question":"What is a equation?",
+            "opcions": [],
+            "correctly": 2
+        },
+        {
+            "id": 4,
+            "theme":"math",
+            "question":"",
+            "opcions": [],
+            "correctly": 2
+        },
+        {
+            "id": 5,
+            "theme":"programming",
+            "question":"",
+            "opcions": [],
+            "correctly": 2
+        }
+    ]    
+}
