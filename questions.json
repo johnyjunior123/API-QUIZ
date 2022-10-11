@@ -5,6 +5,7 @@
             "theme":"programming",
             "question":"",
             "opcions":[],
+            "difficutly":1,
             "correctly": 2
         },
         {
@@ -12,6 +13,7 @@
             "theme":"programming",
             "question":"",
             "opcions": [],
+            "difficutly":2,
             "correctly": 2
         },
         {
@@ -19,6 +21,7 @@
             "theme":"math",
             "question":"What is a equation?",
             "opcions": [],
+            "difficutly":2,
             "correctly": 2
         },
         {
@@ -26,6 +29,7 @@
             "theme":"math",
             "question":"",
             "opcions": [],
+            "difficutly":1,
             "correctly": 2
         },
         {
@@ -33,6 +37,7 @@
             "theme":"programming",
             "question":"",
             "opcions": [],
+            "difficutly":1,
             "correctly": 2
         }
     ]    
